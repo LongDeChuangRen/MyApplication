@@ -1,8 +1,4 @@
 package com.example.myapplication;
-
-/**
- * describe：to test code
- */
 public class LeetCode {
     public static void main(String[] args) {
 
